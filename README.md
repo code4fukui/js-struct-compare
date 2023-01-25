@@ -6,6 +6,13 @@ js-struct-compare
 Javascript library to compare two (JSON-serializable) structures and return their
 differences.
 
+as ES modules
+------------
+
+```JavaScript
+import compare from "https://code4fukui.github.io/js-struct-compare/src/index.mjs";
+```
+
 Installation
 ------------
 This library can be installed from the NPM package registry. Using NPM:
